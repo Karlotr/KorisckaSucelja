@@ -1,4 +1,4 @@
-﻿# Semester Project <!-- omit in toc -->
+﻿# Apartment Finder
 
 - [Project Structure](#project-structure)
 - [My Project Links](#my-project-links)
