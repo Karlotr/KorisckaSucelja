@@ -18,6 +18,7 @@
 ### Semester Project
 
 - Link to your production version: [**Production Version**](https://koriscka-sucelja.vercel.app/)
+- Link to Final report: [**Final report**](./assignments/FinalReport/FinalReport.md)
 
 ### Semester Assignments
 
