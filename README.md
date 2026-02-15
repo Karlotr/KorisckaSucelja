@@ -24,7 +24,7 @@
 - Link to Assignment 1: [**Assignment 1**](./assignments/Assignment1.md)
 - Link to Assignment 2: [**Assignment 2**](./assignments/Assignment2/)
 - Link to Assignment 3: [**Assignment 3**](https://koriscka-sucelja.vercel.app/)
-- Link to Assignment 4: [**Assignment 4**](./assignments/Assignment4/Apartment_Finder_Full_Page.png)
+- Link to Assignment 4: [**Assignment 4**](./assignments/Assignment4/Home_design.png)
 - Link to Assignment 5: [**Assignment 5**](https://koriscka-sucelja.vercel.app/)
 - Link to Assignment 6: [**Assignment 6**](https://koriscka-sucelja.vercel.app/)
 
